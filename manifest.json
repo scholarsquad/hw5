@@ -1,6 +1,8 @@
 {
     "name": "Bloons TD 5",
     "short_name": "BTD5",
+    "orientation": "landscape-primary",
+
     "start_url": "/BloonsTD5",
     "display": "standalone",
     "background_color": "#000000",
