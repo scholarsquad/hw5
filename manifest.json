@@ -8,7 +8,7 @@
     "icons": [
         {
             "src": "btd5.jpg",
-            "sizes": "192x192",
+            "sizes": "1024x1024",
             "type": "image/png"
         }
     ]
